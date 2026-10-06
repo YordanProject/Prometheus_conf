@@ -1,2 +1,2 @@
 # Prometheus
-For Prometheus Server
+For Prometheus Server setup
